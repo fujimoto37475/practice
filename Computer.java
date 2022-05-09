@@ -4,7 +4,7 @@ public class Computer{
      setName(name);
   }
   public String getName(){
-     return this.name = name;
+     return this.name;
   }
   public void setName(String name){
      this.name = name;
