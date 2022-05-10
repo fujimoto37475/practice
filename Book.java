@@ -9,4 +9,7 @@ public class Book extends TangibleAsset {
 	public String getIsbn() {
 		return this.isbn;
 	}
+	public void setIsbn(int isbn) {
+		this.isbn = isbn;
+	}
 }
